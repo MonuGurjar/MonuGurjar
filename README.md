@@ -72,9 +72,20 @@
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Connect with Me
 <p align="center">
-  If you’re building something ambitious, feel free to reach out.
+  <a href="https://monugurjar.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://T.me/M0NUGURJAR">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://Instagram.com/M0NUGURJAR">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://Facebook.com/m0nugurjar">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
