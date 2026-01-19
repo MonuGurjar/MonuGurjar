@@ -6,13 +6,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-7F00FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full%20Stack-00C6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Architect-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Architect-00C6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python%20Expert-111827?style=for-the-badge" />
 </p>
 
 <p align="center">
-  I build high‑impact products with <b>Generative AI</b>, <b>Serverless Infrastructure</b>, and <b>Scalable System Design</b>.<br/>
-  Focused on shipping reliable, secure, and fast solutions — from idea to production.
+  I utilize an <b>AI-First Workflow</b> to build high-impact products. <br/>
+  My focus is on <b>System Architecture</b>, <b>Logic Design</b>, and <b>Debugging</b>.<br/>
+  While I write <b>Python</b> natively, I leverage Generative AI to implement, debug, and optimize the rest of my full-stack solutions.
 </p>
 
 ---
@@ -28,15 +29,24 @@
 
 ---
 
-## 💻 Technical Skills
+## 🧠 Native Core Skill
 <p align="center">
+  <i>I code, optimize, and debug Python manually with high proficiency.</i><br/><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-7F00FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-00C6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Model%20Fine--Tuning-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector%20Databases-7F00FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLOps-00C6FF?style=for-the-badge" />
+</p>
+
+---
+
+## 🤖 AI-Orchestrated Stack
+<p align="center">
+  <i>I use AI to design, generate, and debug code for these technologies, focusing on architecture and functionality over syntax.</i><br/><br/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+  <img src="https://img.shields.io/badge/Full--Stack-00C6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Security-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -52,23 +62,12 @@
 
 ---
 
-## 🧩 Soft Skills / Process
+## 🧩 AI & Development Workflow
 <p align="center">
-  <img src="https://img.shields.io/badge/Rapid%20Prototyping-7F00FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-00C6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Debugging-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Product%20Development-7F00FF?style=for-the-badge" />
-</p>
-
----
-
-## 🛠️ Mastered Technologies
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architectural%20Design-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI--Assisted%20Debugging-00C6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rapid%20Prototyping-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product%20Logic-7F00FF?style=for-the-badge" />
 </p>
 
 ---
