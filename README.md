@@ -31,12 +31,12 @@
 ## 💻 Technical Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Security-7F00FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack-00C6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JSON-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software%20Design-7F00FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Back--End%20Development-00C6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-00C6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Fine--Tuning-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLOps-00C6FF?style=for-the-badge" />
 </p>
 
 ---
