@@ -74,7 +74,7 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://monugurjar.github.io/">
+  <a href="https://monugurjar-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://T.me/M0NUGURJAR">
