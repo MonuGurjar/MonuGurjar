@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Monu Gurjar
+ 👋 Hi, I'm Monu Gurjar
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=160&section=header&text=Monu%20Gurjar&fontSize=40&fontColor=ffffff&fontAlignY=35" />
@@ -18,7 +18,7 @@
 
 ---
 
-## ⭐ Top 5 (Pin These)
+ ⭐
 <p align="center">
   <img src="https://img.shields.io/badge/Generative%20AI-7F00FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Serverless%20Computing-00C6FF?style=for-the-badge" />
@@ -29,7 +29,7 @@
 
 ---
 
-## 🧠 Native Core Skill
+ 🧠 Native Core Skill
 <p align="center">
   <i>I code, optimize, and debug Python manually with high proficiency.</i><br/><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -51,7 +51,7 @@
 
 ---
 
-## 🧰 Tools & Platforms
+ 🧰 Tools & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -62,7 +62,7 @@
 
 ---
 
-## 🧩 AI & Development Workflow
+ 🧩 AI & Development Workflow
 <p align="center">
   <img src="https://img.shields.io/badge/Architectural%20Design-7F00FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI--Assisted%20Debugging-00C6FF?style=for-the-badge" />
@@ -72,7 +72,7 @@
 
 ---
 
-### 📫 Connect with Me
+ 📫 Connect with Me
 <p align="center">
   <a href="https://monugurjar-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
