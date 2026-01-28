@@ -15,7 +15,9 @@
   My focus is on <b>System Architecture</b>, <b>Logic Design</b>, and <b>Debugging</b>.<br/>
   While I write <b>Python</b> natively, I leverage Generative AI to implement, debug, and optimize the rest of my full-stack solutions.
 </p>
-
+<p align="center">
+ <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6796171" style='border:none;'></iframe>
+</p>
 ---
 
  ⭐
