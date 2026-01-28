@@ -76,6 +76,8 @@
 
  📫 Connect with Me
 <p align="center">
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/m0nugurjar)
+
   <a href="https://monugurjar-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
