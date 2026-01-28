@@ -16,11 +16,7 @@
   While I write <b>Python</b> natively, I leverage Generative AI to implement, debug, and optimize the rest of my full-stack solutions.
 </p>
 <p align="center">
- <p align="center">
-  <a href="https://tryhackme.com/p/your-username">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6796171" />
-  </a>
-</p>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Monu.Gurjar.png" alt="Your Image Badge" />
 </p>
 ---
 
