@@ -1,97 +1,189 @@
- 👋 Hi, I'm Monu Gurjar
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=160&section=header&text=Monu%20Gurjar&fontSize=40&fontColor=ffffff&fontAlignY=35" />
+# Hey, I'm Monu Gurjar 👋
+
+### Software Engineer • AI Systems • Backend • Linux
+
+Building products that solve real-world problems.
+
+<p>
+  <img src="./assets/banner.png" alt="Monu Gurjar Banner" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-7F00FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Architect-00C6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python%20Expert-111827?style=for-the-badge" />
-</p>
+[Portfolio](https://your-domain.com)
+•
+[LinkedIn](https://linkedin.com/in/yourusername)
+•
+[GitHub](https://github.com/MonuGurjar)
+•
+[Email](mailto:you@example.com)
 
-<p align="center">
-  I utilize an <b>AI-First Workflow</b> to build high-impact products. <br/>
-  My focus is on <b>System Architecture</b>, <b>Logic Design</b>, and <b>Debugging</b>.<br/>
-  While I write <b>Python</b> natively, I leverage Generative AI to implement, debug, and optimize the rest of my full-stack solutions.
-</p>
-<p align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Monu.Gurjar.png" alt="Your Image Badge" />
-</p>
----
-
- ⭐
-<p align="center">
-  <img src="https://img.shields.io/badge/Generative%20AI-7F00FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Serverless%20Computing-00C6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Architecture-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API%20Integration-7F00FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-00C6FF?style=for-the-badge" />
-</p>
+</div>
 
 ---
 
- 🧠 Native Core Skill
-<p align="center">
-  <i>I code, optimize, and debug Python manually with high proficiency.</i><br/><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+## About Me
+
+I'm a Computer Science student passionate about building production-ready software.
+
+My interests include:
+
+- 🤖 AI Systems
+- 🏗️ Backend Architecture
+- 🌐 Full Stack Development
+- 🔐 Cyber Security
+- 🐧 Linux & Self Hosting
+- ⚡ Developer Tools
+
+I enjoy turning ideas into polished products instead of small demo projects.
+
+---
+
+## Current Focus
+
+```text
+Building
+├── MedRussia
+├── AI Systems
+├── Production SaaS Applications
+├── Backend Infrastructure
+└── Open Source Tools
+```
+
+---
+
+## Featured Projects
+
+### 🏥 MedRussia
+
+A complete MBBS admission platform for students applying to Russian universities.
+
+Features
+
+- Student Dashboard
+- University Explorer
+- Budget Calculator
+- Eligibility Checker
+- Document Management
+- Live Chat
+- Admin Panel
+- AI Assistance
+
+**Tech**
+
+```
+Next.js
+TypeScript
+Supabase
+MongoDB
+Redis
+Cloudinary
+Tailwind CSS
+```
+
+---
+
+### 🤖 AI Projects
+
+- Local AI Assistants
+- RAG Systems
+- LLM Integrations
+- AI Automation
+- Voice Assistants
+
+---
+
+### 🔐 Security
+
+Projects related to
+
+- Authentication
+- Secure APIs
+- Infrastructure
+- Linux
+- Security Research
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,bash" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,postgres,redis" />
+</p>
+
+### DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,vercel,cloudflare,git,github" />
+</p>
+
+### AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
 ---
 
-## 🤖 AI-Orchestrated Stack
+## GitHub Stats
+
 <p align="center">
-  <i>I use AI to design, generate, and debug code for these technologies, focusing on architecture and functionality over syntax.</i><br/><br/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-  <img src="https://img.shields.io/badge/Full--Stack-00C6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Security-7F00FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MonuGurjar&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MonuGurjar&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
 
- 🧰 Tools & Platforms
+## Most Used Languages
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonuGurjar&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
 
- 🧩 AI & Development Workflow
-<p align="center">
-  <img src="https://img.shields.io/badge/Architectural%20Design-7F00FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI--Assisted%20Debugging-00C6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rapid%20Prototyping-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Product%20Logic-7F00FF?style=for-the-badge" />
-</p>
+## Philosophy
+
+> Build software that people actually use.
+
+Quality over quantity.
+
+Production over tutorials.
+
+Systems over scripts.
 
 ---
 
- 📫 Connect with Me
-<p align="center">
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/m0nugurjar)
+## Let's Connect
 
-  <a href="https://monugurjar-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://T.me/M0NUGURJAR">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://Instagram.com/M0NUGURJAR">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://Facebook.com/m0nugurjar">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+- Portfolio
+- LinkedIn
+- GitHub
+- Email
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C6FF&height=40&section=footer" />
-</p>
+---
+
+<div align="center">
+
+**Always building. Always learning.**
+
+</div>
