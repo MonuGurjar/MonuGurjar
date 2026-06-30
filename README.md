@@ -153,6 +153,12 @@ Projects related to
     alt="GitHub Streak"
   />
 </p>
+<p align="center">
+  <img
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonuGurjar&layout=compact&theme=github_dark&hide_border=true&count_private=true"
+  />
+</p>
 
 ---
 
