@@ -10,13 +10,13 @@ Building products that solve real-world problems.
   <img src="./assets/banner.png" alt="Monu Gurjar Banner" width="100%">
 </p>
 
-[Portfolio](https://your-domain.com)
+[Portfolio](https://monugurjar.vercel.app)
 •
-[LinkedIn](https://linkedin.com/in/yourusername)
+[LinkedIn](https://linkedin.com/in/m0nugurjar)
 •
 [GitHub](https://github.com/MonuGurjar)
 •
-[Email](mailto:you@example.com)
+[Email](mailto:m0nugurjar@proton.me)
 
 </div>
 
@@ -54,7 +54,7 @@ Building
 
 ## Featured Projects
 
-### 🏥 MedRussia
+### 🏥 MedRussia [Web | Android]
 
 A complete MBBS admission platform for students applying to Russian universities.
 
@@ -72,6 +72,7 @@ Features
 **Tech**
 
 ```
+Kotlin
 Next.js
 TypeScript
 Supabase
