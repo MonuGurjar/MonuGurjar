@@ -1,201 +1,338 @@
 <div align="center">
 
-# Hey, I'm Monu Gurjar 👋
+# `> whoami`
 
-### Software Engineer • AI Systems • Backend • Linux
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Unknown+Kernel;Software+Engineer;AI+Systems+Builder;Linux+%7C+Android+%7C+Web;Building+Systems%2C+Not+Just+Apps." alt="Typing SVG" />
 
-Building products that solve real-world problems.
+<br/>
 
-<p>
-  <img src="./assets/banner.png" alt="Monu Gurjar Banner" width="100%">
-</p>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  SOFTWARE ENGINEER                                           │
+│                                                              │
+│  AI SYSTEMS  •  LINUX  •  ANDROID  •  FULL-STACK             │
+│                                                              │
+│  Building complete products, platforms and developer tools.  │
+└──────────────────────────────────────────────────────────────┘
+```
 
-[Portfolio](https://monugurjar.vercel.app)
-•
-[LinkedIn](https://linkedin.com/in/m0nugurjar)
-•
-[GitHub](https://github.com/MonuGurjar)
-•
-[Email](mailto:m0nugurjar@proton.me)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MonuGurjar)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge\&logo=vercel\&logoColor=black)](https://monugurjar.vercel.app)
 
 </div>
 
 ---
 
-## About Me
-
-I'm a Computer Science student passionate about building production-ready software.
-
-My interests include:
-
-- 🤖 AI Systems
-- 🏗️ Backend Architecture
-- 🌐 Full Stack Development
-- 🔐 Cyber Security
-- 🐧 Linux & Self Hosting
-- ⚡ Developer Tools
-
-I enjoy turning ideas into polished products instead of small demo projects.
-
----
-
-## Current Focus
+## `$ cat /etc/profile`
 
 ```text
-Building
-├── MedRussia
-├── AI Systems
-├── Production SaaS Applications
-├── Backend Infrastructure
-└── Open Source Tools
+NAME        : Unknown Kernel
+ROLE        : Software Engineer
+FOCUS       : AI Systems + Software Engineering
+ENVIRONMENT : Linux
+BUILDING    : MedRussia + VOID + AI Placement
+APPROACH    : Build → Break → Learn → Improve → Ship
+```
+
+I build software across **Web, Android, Linux, AI, backend systems and developer tooling**.
+
+My main work is organized around a few larger projects rather than isolated demos.
+
+---
+
+# `$ ls -la ./projects`
+
+```text
+drwxr-xr-x  MEDRUSSIA/
+drwxr-xr-x  VOID/
+drwxr-xr-x  AI-PLACEMENT/
+drwxr-xr-x  ENGINEERING/
 ```
 
 ---
 
-## Featured Projects
+# 🏥 `./MEDRUSSIA`
 
-### 🏥 MedRussia [Web | Android]
+### `Multi-platform product ecosystem`
 
-A complete MBBS admission platform for students applying to Russian universities.
-
-Features
-
-- Student Dashboard
-- University Explorer
-- Budget Calculator
-- Eligibility Checker
-- Document Management
-- Live Chat
-- Admin Panel
-- AI Assistance
-
-**Tech**
-
-```
-Kotlin
-Next.js
-TypeScript
-Supabase
-MongoDB
-Redis
-Cloudinary
-Tailwind CSS
+```text
+                       ┌──────────────────┐
+                       │    MEDRUSSIA     │
+                       └────────┬─────────┘
+                                │
+                 ┌──────────────┼──────────────┐
+                 │              │              │
+                 ▼              ▼              ▼
+             WEB CLIENT     ANDROID APP    CORE PLATFORM
+                 │              │              │
+                 └──────────────┼──────────────┘
+                                ▼
+                       CENTRAL SOURCE
+                          OF TRUTH
 ```
 
----
+### Components
 
-### 🤖 AI Projects
+| Component                                                                     | Role                               |
+| ----------------------------------------------------------------------------- | ---------------------------------- |
+| 🌐 **[MedRussia](https://github.com/MonuGurjar/MedRussia)**                   | Web application                    |
+| ⚙️ **[medrussia-platform](https://github.com/MonuGurjar/medrussia-platform)** | Central platform / source of truth |
+| 📱 **[med-russia-android](https://github.com/MonuGurjar/med-russia-android)** | Native Android client              |
 
-- Local AI Assistants
-- RAG Systems
-- LLM Integrations
-- AI Automation
-- Voice Assistants
-
----
-
-### 🔐 Security
-
-Projects related to
-
-- Authentication
-- Secure APIs
-- Infrastructure
-- Linux
-- Security Research
+> One ecosystem. Multiple clients. One central platform.
 
 ---
 
-## Tech Stack
+# 🟣 `./VOID`
 
-### Languages
+### `Major engineering project`
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,bash" />
-</p>
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                           VOID                              │
+│                                                             │
+│        Engineering • Linux • Developer Systems              │
+│                                                             │
+│                         ┌───────┐                           │
+│                         │  AI   │                           │
+│                         └───┬───┘                           │
+│                             │                               │
+│                    Linux AI Assistant                       │
+│                    Developer Workflows                      │
+└─────────────────────────────────────────────────────────────┘
+```
 
-### Frontend
+**[VOID](https://github.com/MonuGurjar/VOID)** is the major project.
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
-</p>
+**[VOID Linux AI Assistant](https://github.com/MonuGurjar/VOID-Linux-ai-assistant)** is an AI-powered component within the VOID ecosystem, focused on Linux and developer workflows.
 
-### Backend
+VOID is where I explore the intersection of:
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,postgres,redis" />
-</p>
-
-### DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,vercel,cloudflare,git,github" />
-</p>
-
-### AI
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=MonuGurjar&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=MonuGurjar&theme=github-dark&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-<p align="center">
-  <img
-    width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonuGurjar&layout=compact&theme=github_dark&hide_border=true&count_private=true"
-  />
-</p>
+```text
+Linux
+  +
+Software Engineering
+  +
+AI
+  +
+Developer Tooling
+  +
+Systems
+```
 
 ---
 
-## Most Used Languages
+# 🤖 `./AI-PLACEMENT`
 
-<p align="center">
+### `AI-powered placement preparation ecosystem`
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonuGurjar&layout=compact&theme=github_dark&hide_border=true"/>
+```text
+                  AI PLACEMENT
+                       │
+              ┌────────┴────────┐
+              │                 │
+           WEB APP          ANDROID APP
+              │                 │
+              └────────┬────────┘
+                       │
+                       ▼
+                 AI-POWERED
+                 PREPARATION
+```
 
-</p>
+| Component                                                                                                   | Role                |
+| ----------------------------------------------------------------------------------------------------------- | ------------------- |
+| 🌐 **[AI Placement Preparation Platform](https://github.com/MonuGurjar/AI-Placement-Preparation-Platform)** | Web platform        |
+| 📱 **[placement-ai-android](https://github.com/MonuGurjar/placement-ai-android)**                           | Android application |
+
+---
+
+# ⚡ `./ENGINEERING`
+
+Projects where I experiment with different layers of engineering.
+
+### 🐧 Linux + Rust
+
+**[Camera for Linux in Rust](https://github.com/MonuGurjar/Camera-For-Linux-In-Rust)**
+
+```text
+Rust + Linux + Slint
+        ↓
+Native / Systems-oriented development
+```
+
+### 🧠 Machine Learning
+
+**[Skin Disease Detector](https://github.com/MonuGurjar/Skin-Disease-detector)**
+
+```text
+Python
+  +
+Machine Learning
+  ↓
+Applied ML experimentation
+```
+
+### 🏆 Web Systems
+
+**[Tournament Registration & Leaderboard](https://github.com/MonuGurjar/Tournament-Registration-and-Leaderboard-System)**
+
+A web-based system exploring registration and leaderboard workflows.
 
 ---
 
-## Philosophy
-
-> Build software that people actually use.
-
-Quality over quantity.
-
-Production over tutorials.
-
-Systems over scripts.
-
----
-
-## Let's Connect
-
-- Portfolio
-- LinkedIn
-- GitHub
-- Email
-
----
+# `$ neofetch --skills`
 
 <div align="center">
 
-**Always building. Always learning.**
+### `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,kotlin,rust,c,bash&theme=dark" />
+
+<br/><br/>
+
+### `WEB`
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,html,css&theme=dark" />
+
+<br/><br/>
+
+### `ANDROID`
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" />
+
+<br/><br/>
+
+### `SYSTEMS / DEV`
+
+<img src="https://skillicons.dev/icons?i=linux,rust,c,docker,bash,git,github&theme=dark" />
+
+</div>
+
+---
+
+# `$ echo $STACK`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                        TECH STACK                            ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  🐍 Python        ████████████████████████                   ║
+║  🟦 TypeScript    ████████████████████████                   ║
+║  🟪 Kotlin        ████████████████████                       ║
+║  🦀 Rust          ███████████████                            ║
+║  ⚡ JavaScript    █████████████████                          ║
+║  🔵 C             ███████████                                ║
+║  🐚 Shell         █████████                                  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+|    🧠 AI   |  🐧 Linux |  📱 Android |   🌐 Web   | ⚙️ Backend | 🦀 Systems |
+| :--------: | :-------: | :---------: | :--------: | :--------: | :--------: |
+| AI Systems | Linux Dev | Native Apps | Full-Stack |  Platforms |  Rust / C  |
+
+</div>
+
+---
+
+# `$ git log --oneline --focus`
+
+```text
+[+] Building multi-platform systems
+[+] Exploring AI-powered products
+[+] Developing Linux tooling
+[+] Building native Android applications
+[+] Working across frontend + backend
+[+] Exploring systems programming
+[+] Turning ideas into working software
+```
+
+---
+
+# `$ top --projects`
+
+<div align="center">
+
+| PROJECT                      | AREA                     | STATUS         |
+| ---------------------------- | ------------------------ | -------------- |
+| 🏥 **MedRussia**             | Web / Platform / Android | `ACTIVE`       |
+| 🟣 **VOID**                  | Engineering / Linux      | `ACTIVE`       |
+| 🤖 **AI Placement**          | AI / Web / Android       | `ACTIVE`       |
+| 🐧 **Camera Linux**          | Rust / Linux             | `EXPERIMENTAL` |
+| 🧠 **Skin Disease Detector** | ML / Python              | `EXPERIMENTAL` |
+
+</div>
+
+---
+
+# `$ git stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MonuGurjar&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=00000000&title_color=00ff88&icon_color=00ff88&text_color=ffffff" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonuGurjar&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=00000000&title_color=00ff88&text_color=ffffff" height="170"/>
+
+</div>
+
+---
+
+# `$ uptime`
+
+```text
+SYSTEM STATUS
+────────────────────────────────────────────
+
+  AI SYSTEMS          [████████████████░░░]  ACTIVE
+  LINUX               [██████████████████░]  ACTIVE
+  ANDROID             [████████████████░░░]  ACTIVE
+  WEB                 [██████████████████░]  ACTIVE
+  BACKEND             [████████████████░░░]  ACTIVE
+  SYSTEMS             [████████████░░░░░░░]  EXPLORING
+
+────────────────────────────────────────────
+  STATUS: BUILDING
+────────────────────────────────────────────
+```
+
+---
+
+# `$ ./current_focus.sh`
+
+```bash
+#!/bin/bash
+
+echo "[*] Building MedRussia"
+echo "[*] Engineering VOID"
+echo "[*] Developing AI systems"
+echo "[*] Exploring Linux"
+echo "[*] Building Android applications"
+echo "[*] Learning by shipping"
+```
+
+---
+
+# `$ contact --open`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-MonuGurjar-00FF88?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/MonuGurjar)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-monugurjar.vercel.app-00FF88?style=for-the-badge\&logo=vercel\&logoColor=black)](https://monugurjar.vercel.app)
+
+<br/>
+
+```text
+> Building systems.
+> Breaking assumptions.
+> Learning constantly.
+> Shipping relentlessly.
+```
+
+### `EOF`
 
 </div>
